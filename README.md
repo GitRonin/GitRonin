@@ -6,7 +6,7 @@ I am a junior frontent developer.
     + Telegram: @ZELENB
 
 <br/><br/>
-[<img src="https://www.codewars.com/users/KanaMonogatari/badges/large">](https://www.codewars.com/users/KanaMonogatari)
+[<img src="https://www.codewars.com/users/GitRonin/badges/large">](https://www.codewars.com/users/GitRonin)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)<br/>
