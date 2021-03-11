@@ -1,17 +1,19 @@
-### Hi there 👋
+### 👋 Konnichiwa!
+I am a beginner php developer. If you have any comments or questions, please write to my discord (Kana#3566), thanks!
++ If we talk about me, then:
+    + Learning Japanese: I have N4.
+    + Favorite book - Judas Iscariot (Andreev Leonid Nikolaevich)
+    + I love Japanese music very much, [my spotify account.](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)<br/><br/>
++ My contacts:
+    + Discord: Kana#3566
+    + E-mail: dragon100800@gmail.com
+    + [Steam](https://steamcommunity.com/profiles/76561198096665890/ "Steam")
 
-<img src="https://www.codewars.com/users/GitRonin/badges/large"/>
-<!--
-**GitRonin/GitRonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎧 Now listenig to:
+[<img src="https://kanamonogatari.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)
+<br/><br/>
+[<img src="https://www.codewars.com/users/KanaMonogatari/badges/large">](https://www.codewars.com/users/KanaMonogatari)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanaMonogatari&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
