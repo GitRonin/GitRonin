@@ -9,5 +9,5 @@ I am a junior frontent developer.
 [<img src="https://www.codewars.com/users/GitRonin/badges/large">](https://www.codewars.com/users/GitRonin)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanaMonogatari&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitRonin&show_icons=true&theme=tokyonight)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitRonin&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
