@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img src="https://www.codewars.com/users/GitRonin/badges/large%22%3E](https://www.codewars.com/users/KanaMonogatari)
+[<img src="https://www.codewars.com/users/GitRonin/badges/large%22%3E](https://www.codewars.com/users/GitRonin)
 <!--
 **GitRonin/GitRonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
