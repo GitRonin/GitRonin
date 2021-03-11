@@ -1,4 +1,4 @@
-### 👋 Konnichiwa!
+### 👋 Salute!
 I am a junior frontent developer.
 + My contacts:
     + Discord: GitRonin#8012
