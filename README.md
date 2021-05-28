@@ -1,5 +1,5 @@
 ### 👋 Salute!
-I am a junior frontent developer.
+I am a junior frontend developer.
 + My contacts:
     + Discord: GitRonin#8012
     + E-mail: mixggua@gmail.com
