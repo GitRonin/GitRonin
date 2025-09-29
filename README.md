@@ -5,20 +5,25 @@
 I'm <b>Nikita</b> — Software Engineer focused on building high-quality web apps.  
 Open to new opportunities — reach out via email.
 
-<!-- Tech badges (shields.io) -->
+<!-- Tech badges (clickable) -->
 <p align="left">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-
-<!-- Sleek icon row -->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,postgres,git,github,vercel" height="28" alt="skills" />
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white">
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
 </p>
 
@@ -39,5 +44,18 @@ Open to new opportunities — reach out via email.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitronin/)
 
 ---
+
+<details>
+  <summary><b>GitHub Stats</b></summary>
+  <br />
+  <img alt="Stats"
+       src="https://github-readme-stats.vercel.app/api?username=gitronin&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&v=1" />
+  <br />
+  <img alt="Streak"
+       src="https://streak-stats.demolab.com?user=gitronin&hide_border=true&v=1" />
+  <br />
+  <img alt="Top Langs"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitronin&layout=compact&hide_title=true&langs_count=8&v=1" />
+</details>
 
 <p align="left"><i>⚡️ Let's build something great together.</i></p>
