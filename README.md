@@ -40,18 +40,4 @@ Open to new opportunities — reach out via email.
 
 ---
 
-<!-- <details>
-  <summary><b>GitHub Stats</b></summary>
-  <br />
-  <!-- Tip: add your own Vercel/Actions-hosted instances + tokens for private counts -->
-  <img alt="Stats"
-       src="https://github-readme-stats.vercel.app/api?username=gitronin&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&v=1" />
-  <br />
-  <img alt="Streak"
-       src="https://streak-stats.demolab.com?user=gitronin&hide_border=true&v=1" />
-  <br />
-  <img alt="Top Langs"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitronin&layout=compact&hide_title=true&langs_count=8&v=1" />
-</details> -->
-
 <p align="left"><i>⚡️ Let's build something great together.</i></p>
