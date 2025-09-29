@@ -31,7 +31,7 @@ Open to new opportunities — reach out via email.
 
 ### 🏢 Experience
 - **Global Partner Soft** — Software Engineer  
-- **LECTRUM** — Frontend Engineer
+- **LECTRUM** — Software Engineer
 
 ### 🧭 What I do
 - Enterprise web platforms (React/Next.js, Node.js/NestJS)  
