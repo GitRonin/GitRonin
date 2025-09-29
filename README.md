@@ -26,7 +26,7 @@ Open to new opportunities — reach out via email.
 
 ### 🏢 Experience
 - **Global Partner Soft** — Software Engineer  
-- **LECTRUM** — Frontend Engineer
+- **LECTRUM** — Software Engineer
 
 ### 🧭 What I do
 - Enterprise web platforms (React/Next.js, Node.js/NestJS)  
@@ -40,7 +40,7 @@ Open to new opportunities — reach out via email.
 
 ---
 
-<details>
+<!-- <details>
   <summary><b>GitHub Stats</b></summary>
   <br />
   <!-- Tip: add your own Vercel/Actions-hosted instances + tokens for private counts -->
@@ -52,6 +52,6 @@ Open to new opportunities — reach out via email.
   <br />
   <img alt="Top Langs"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitronin&layout=compact&hide_title=true&langs_count=8&v=1" />
-</details>
+</details> -->
 
 <p align="left"><i>⚡️ Let's build something great together.</i></p>
