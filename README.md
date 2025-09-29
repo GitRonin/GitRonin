@@ -31,7 +31,7 @@ Open to new opportunities — reach out via email.
 
 ### 🏢 Experience
 - **Global Partner Soft** — Software Engineer  
-- **LECTRUM** — Software Engineer
+- **LECTRUM** — Frontend Engineer
 
 ### 🧭 What I do
 - Enterprise web platforms (React/Next.js, Node.js/NestJS)  
@@ -44,18 +44,8 @@ Open to new opportunities — reach out via email.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitronin/)
 
 ---
-
-<details>
-  <summary><b>GitHub Stats</b></summary>
-  <br />
-  <img alt="Stats"
-       src="https://github-readme-stats.vercel.app/api?username=gitronin&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&v=1" />
   <br />
   <img alt="Streak"
        src="https://streak-stats.demolab.com?user=gitronin&hide_border=true&v=1" />
   <br />
-  <img alt="Top Langs"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitronin&layout=compact&hide_title=true&langs_count=8&v=1" />
-</details>
-
 <p align="left"><i>⚡️ Let's build something great together.</i></p>
