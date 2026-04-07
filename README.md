@@ -1,77 +1,42 @@
-<!-- Profile README for @gitronin -->
+# Hey, I'm Nikita 👋
 
-<h1 align="left">Frontend / Full-stack Engineer</h1>
+**Frontend Engineer (React / Next.js) with Backend Experience**
 
-Building production-grade web apps with React & Next.js.  
-Focused on performance, scalability, and clean architecture.
+4+ years building web applications — dashboards, data-heavy interfaces, map-based systems, and API-driven frontends. Recently expanded into full stack with Node.js & PostgreSQL.
 
-<p align="left">
-  <a href="https://gitronin.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge">
-  </a>
-</p>
+Based in Kyiv, Ukraine 🇺🇦
 
----
+## What I Do
 
-### 🧰 Tech Stack
-<p align="left">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+- 📊 **Admin dashboards & data-heavy interfaces** — complex panels with large datasets, virtualization, real-time analytics
+- 🗺️ **Map-based interfaces** — geospatial visualization and monitoring with Mapbox
+- 🚀 **Full product development** — built 2 products from zero to production as sole frontend developer
+- 📝 **Complex UI systems** — built a Google Docs-style collaborative editor
 
----
+## Track Record
 
-### 🚀 Featured Projects
+| Company | Role | What I Did |
+|---------|------|------------|
+| **Komora** | Full Stack Engineer | Sole frontend dev — Mapbox interfaces, admin dashboards, Node.js backend |
+| **Studiosy** | Frontend Engineer | Sole frontend dev — client platform, admin panel, marketing landing |
+| **LECTRUM** | Next.js Mentor | Course creation, lectures, code reviews — positive reviews on dou.ua |
+| **Global Partner Soft** | Frontend Engineer | 9 client projects — e-commerce, education platforms, Google Docs analog |
 
-- 🧠 **Komora Platform**  
-  Admin dashboard with Mapbox integration, analytics & role-based system  
-  → Complex UI logic, performance optimization, real-world business workflows  
-  👉 https://your-site.com/komora
+## Tech Stack
 
-- 🛒 **E-commerce Platform (Canada / Africa)**  
-  Large-scale marketplace with localization (Hebrew), admin system, product & order management  
-  → Full admin redesign, scalable architecture  
-  👉 https://your-site.com/ecommerce
+**Frontend:** React, Next.js, TypeScript, TanStack Query, Zustand, Redux, Tailwind CSS, Ant Design, Astro
 
-- 🎓 **Next.js Course Platform (LECTRUM)**  
-  Teaching modern App Router, SSR/ISR, SEO & performance  
-  → Created course structure, lectures, and production-level tasks  
-  👉 https://your-site.com/course
+**Backend:** Node.js, Hono.js, REST APIs, GraphQL, PostgreSQL
 
----
+**Infrastructure:** AWS, Docker, CI/CD, Git
 
-### 🏢 Experience
+## Education
 
-- **Global Partner Soft** — Software Engineer  
-  → Worked across 9+ projects including large-scale e-commerce platforms  
-  → Built complex admin panels, role-based systems, and scalable frontend architecture  
+🎓 Master of Computer Science — Khmelnytskyi National University
 
-- **LECTRUM** — Software Engineer / Mentor  
-  → Created and updated Next.js course (App Router, SSR, SEO)  
-  → Mentored students and reviewed real-world projects  
+## Links
 
----
-
-### 🧭 What I do
-
-- Build scalable web applications (React / Next.js)  
-- Design complex UI systems & admin panels  
-- Work with APIs, PostgreSQL, and backend integrations  
-- Optimize performance (SSR, ISR, caching strategies)  
-- Maintain code quality, CI/CD, and production workflows  
-
----
-
-### 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mixggua@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ReactRonin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitronin/)
-
-<p align="left">
-  <i>Open to new opportunities — ready to join strong teams and build impactful products.</i>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-gitronin.dev-8B5CF6?style=for-the-badge&logo=astro&logoColor=white)](https://gitronin.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gitronin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gitronin)
+[![Telegram](https://img.shields.io/badge/Telegram-@ReactRonin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ReactRonin)
+[![Email](https://img.shields.io/badge/Email-mixggua@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mixggua@gmail.com)
