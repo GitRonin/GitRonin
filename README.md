@@ -8,8 +8,8 @@ Based in Kyiv, Ukraine 🇺🇦
 
 ## What I Build
 
-- 🤖 **AI-powered web apps** — prompt-based UI generation, live preview workflows, and interactive product logic
-- 📊 **Admin panels & dashboards** — structured interfaces, data-heavy flows, and management systems
+- 🤖 **AI-powered web apps** — prompt-based UI generation, preview workflows, and interactive product logic
+- 📊 **Admin panels & dashboards** — structured interfaces, management systems, and data-heavy flows
 - 🗺️ **Map-based interfaces** — geospatial UI and monitoring-oriented product screens
 - 💬 **Real-time apps** — chat and interactive communication features
 - 🚀 **Modern product frontends** — responsive interfaces connected to APIs and backend services
@@ -17,7 +17,7 @@ Based in Kyiv, Ukraine 🇺🇦
 ## Selected Projects
 
 ### UIGen
-AI-powered UI builder that generates React interfaces from text prompts.  
+AI-powered UI builder that generates interfaces from text prompts.  
 **Stack:** Next.js, TypeScript, Tailwind CSS, Zustand, PostgreSQL, Drizzle, NextAuth  
 **Links:** [Live](https://uigen.gitronin.dev) · [GitHub](https://github.com/GitRonin/uigen)
 
@@ -37,7 +37,7 @@ Educational product with structured content and dashboard-style interfaces.
 **Links:** [Live](https://www.facultyofflight.com/)
 
 ### Simple Chat
-Real-time chat app built with frontend and server communication.  
+Real-time chat app built with interactive client-server communication.  
 **Stack:** React, TypeScript, Node.js, Socket.IO  
 **Links:** [GitHub](https://github.com/GitRonin/simple-chat)
 
